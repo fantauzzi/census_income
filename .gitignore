@@ -1,2 +1,5 @@
 .ipynb_checkpoints
 catboost_info
+train_dic_cv
+train_dir
+
